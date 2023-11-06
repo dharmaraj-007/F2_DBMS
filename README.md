@@ -1,4 +1,5 @@
 # F2_DBMS
+## Date:
 ## AIM:
 To create a student database and execute DDL queries using SQL.
 ## DDL (Data Definition Language)
@@ -51,3 +52,6 @@ alter table student
 rename to mystudent;
 ### OUTPUT:
 ![image](https://github.com/SivaChandranR07/F2_DBMS/assets/113497395/f019247a-0d2b-463e-92da-e21bd01ae00a)
+
+### RESULT:
+The Student database has been created and DDL queries using SQL has been executed successfully.
